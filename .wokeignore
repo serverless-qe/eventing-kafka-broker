@@ -1,3 +1,0 @@
-vendor/*
-third_party/*
-test/kafka/strimzi-cluster-operator.yaml
